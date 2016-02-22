@@ -1,0 +1,7 @@
+[posts]
+    Name = "Posts"
+    URL = "/post"
+
+[tags]
+    Name = "Tags"
+    URL = "/tags"
